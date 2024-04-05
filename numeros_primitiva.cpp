@@ -54,4 +54,6 @@ int main() {
     return 0;
 }
 
-
+// Hola Javi, he intentado hacer las librerías estáticas y no he podido de ninguna manera, 
+// no entiendo lo que tengo que hacer ni como, 
+// espero que en la siguiente clase me lo puedas explicar.
